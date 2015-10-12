@@ -1,0 +1,19 @@
+# Site settings
+title: NASA/ADS Blogs
+pages_list:
+  news: '/blog/'
+  general: '/blog/general'
+  technical: '/blog/technical'
+baseurl: '/blog'
+description: All news and announcements of the ADS services
+email: adshelp@cfa.harvard.edu
+twitter_username: adsabs
+github_username:  adsabs
+permalink: /:categories/:title
+
+# Build settings
+markdown: kramdown
+
+sass:
+    style: :compressed
+    sass_dir: _sass
