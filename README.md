@@ -1,6 +1,6 @@
 
 
-[View the site](https://adsabs.github.io/help/)
+[View the site](https://jonnybazookatone.github.io/blog/)
 
 
 
